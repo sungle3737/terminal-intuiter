@@ -3,6 +3,7 @@
     "displayName": "terminal intuiter",
     "description": "Terminal move by alt",
     "version": "1.0.0",
+    "publisher": "seonglae",
     "repository": {
         "type": "git",
         "url": "https://seong-land@dev.azure.com/seong-land/vscode-addon/_git/terminal-intuiter"
