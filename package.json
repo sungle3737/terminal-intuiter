@@ -8,6 +8,7 @@
         "type": "git",
         "url": "https://seong-land@dev.azure.com/seong-land/vscode-addon/_git/terminal-intuiter"
     },
+    "icon": "images/logo.png",
     "engines": {
         "vscode": "^1.48.0"
     },
