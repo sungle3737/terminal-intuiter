@@ -2,7 +2,7 @@
     "name": "terminal-intuiter",
     "displayName": "terminal intuiter",
     "description": "Terminal move by alt",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "publisher": "seonglae",
     "repository": {
         "type": "git",
@@ -117,7 +117,7 @@
             },
             {
                 "key": "ctrl+shift+p",
-                "command": "git.push"
+                "command": "git.pushTo"
             },
             {
                 "key": "ctrl+shift+m",
