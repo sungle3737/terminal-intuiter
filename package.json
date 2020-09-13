@@ -2,11 +2,11 @@
     "name": "terminal-intuiter",
     "displayName": "terminal intuiter",
     "description": "Terminal move by alt",
-    "version": "1.1.2",
+    "version": "1.1.3",
     "publisher": "seonglae",
     "repository": {
         "type": "git",
-        "url": "https://seong-land@dev.azure.com/seong-land/vscode-addon/_git/terminal-intuiter"
+        "url": "https://github.com/sungle3737/terminal-intuiter"
     },
     "icon": "images/logo.png",
     "engines": {
