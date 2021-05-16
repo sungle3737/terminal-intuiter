@@ -2,11 +2,11 @@
     "name": "terminal-intuiter",
     "displayName": "terminal intuiter",
     "description": "Terminal move by alt",
-    "version": "1.1.4",
+    "version": "1.1.5",
     "publisher": "seonglae",
     "repository": {
         "type": "git",
-        "url": "https://github.com/sungle3737/terminal-intuiter"
+        "url": "https://github.com/seonglae/terminal-intuiter"
     },
     "icon": "images/logo.png",
     "engines": {
