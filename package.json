@@ -1,17 +1,29 @@
 {
     "name": "terminal-intuiter",
-    "displayName": "terminal intuiter",
-    "description": "Terminal move by alt",
-    "version": "1.1.5",
+    "displayName": "Terminal Intuiter",
+    "description": "Terminal Productivity VSCode Extension",
+    "version": "1.1.6",
+    "license": "MIT",
     "publisher": "seonglae",
     "repository": {
         "type": "git",
         "url": "https://github.com/seonglae/terminal-intuiter"
     },
+    "galleryBanner": {
+        "color": "#242426",
+        "theme": "dark"
+    },
     "icon": "images/logo.png",
     "engines": {
-        "vscode": "^1.48.0"
+        "vscode": "^1.x.x"
     },
+    "keywords": [
+        "terminal",
+        "intuiter",
+        "productivity",
+        "command",
+        "history"
+    ],
     "categories": [
         "Keymaps"
     ],
